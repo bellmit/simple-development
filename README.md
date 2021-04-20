@@ -1,5 +1,5 @@
 ### spring simple2.5    
-- 文档地址: [http://fastgo.icu/simple/index.html](http://fastgo.icu/simple/index.html "simple spring")
+- 文档地址: [http://simple.fastgo.icu/](http://simple.fastgo.icu/ "simple spring")
 
 
 
