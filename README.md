@@ -1,4 +1,6 @@
-### spring simple2.5
+### spring simple2.5    
+- 文档地址: [http://fastgo.icu/simple/index.html](http://fastgo.icu/simple/index.html "simple spring")
+
 
 
 ### 实现

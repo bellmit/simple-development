@@ -13,9 +13,7 @@ module.exports = {
         smoothScroll: true,
         nav: [
             {text: 'Home', link: '/'},
-            {text: '途霖科技', link: 'https://tech20.cn'},
-            {text: 'swagger-原生文档', link: '/swagger-ui.html'},
-            {text: 'swagger-doc文档', link: '/doc.html'}
+            {text: 'github', link: 'https://github.com/likowong/simple-development'}
         ],
         sidebar: [
             {
@@ -37,8 +35,7 @@ module.exports = {
                     {title: "环境隔离", path: "/simpleDoc/started/step4/step4"},
                     {title: "设置启动类", path: "/simpleDoc/started/step5/step5"},
                     {title: "自动生成代码", path: "/simpleDoc/started/step6/step6"},
-                    {title: "打包", path: "/simpleDoc/started/step7/step7"},
-                    {title: "下载demo项目", path: "http://file.diangc.cn/simple-development-demo.zip"}
+                    {title: "打包", path: "/simpleDoc/started/step7/step7"}
                 ]
             },
             {
